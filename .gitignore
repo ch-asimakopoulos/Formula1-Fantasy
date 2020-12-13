@@ -338,3 +338,5 @@ ASALocalRun/
 
 # BeatPulse healthcheck temp database
 healthchecksdb
+/src/F1Fantasy.Api/appsettings.Development.json
+/src/F1Fantasy.Api/appsettings.json
